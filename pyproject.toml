@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dsf-jtools"
-version = "1.0.1"
+version = "1.0.2"
 authors = [
     {name = "DSFish", email = "liumingshuo1017@gmail.com"},
 ]
