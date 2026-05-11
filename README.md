@@ -10,8 +10,8 @@ pip install dsf-jtools --upgrade
 
 ```cmd
 
-python setup.py sdist bdist_wheel
-twine upload dist/*
+uv build
+uv publish
 ```
 
 ## Pushing
